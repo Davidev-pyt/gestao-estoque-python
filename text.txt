@@ -1,0 +1,11 @@
+gestao-estoque-python/
+│
+├── src/                  <-- Pasta para o código fonte (Source)
+│   ├── __init__.py       <-- Arquivo vazio (apenas para o Python reconhecer como pacote)
+│   ├── produto.py        <-- Aqui vai a classe Produto
+│   └── estoque.py        <-- Aqui vai a classe Estoque
+│
+├── main.py               <-- O arquivo principal que roda o sistema e o Menu
+├── requirements.txt      <-- Lista de bibliotecas usadas (como o Rich)
+├── .gitignore            <-- Já foi criado pelo GitHub
+└── README.md             <-- Já foi criado pelo GitHub
