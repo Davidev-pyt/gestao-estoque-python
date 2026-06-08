@@ -1,0 +1,12 @@
+[
+    {
+        "produto": "teclado",
+        "quantidade": 2,
+        "total": 1000.0
+    },
+    {
+        "produto": "teclado",
+        "quantidade": 1,
+        "total": 500.0
+    }
+]
